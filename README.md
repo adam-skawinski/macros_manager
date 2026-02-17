@@ -1,8 +1,8 @@
 # Macro Manager
 
 ## Wykonane przez:
-- Michał Ślęzak 56113
-- Adam Skawiński 55184
+- Michał Ślęzak 56113 (logika)
+- Adam Skawiński 55184 (frontend + ML)
 
 
 
