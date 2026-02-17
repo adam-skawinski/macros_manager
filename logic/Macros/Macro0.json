@@ -1,0 +1,1 @@
+{"py/object": "logic.macroObjClass.Macro", "name": "test", "inputSequence": [{"py/object": "logic.inputObjClass.InputCommand", "string": "cd / && if not exist name mkdir name && cd name && echo adam > author.txt"}], "trigger": {"py/object": "pynput.keyboard._win32.KeyCode", "vk": null, "char": "x", "is_dead": false, "combining": null, "_flags": null, "_scan": null}}
